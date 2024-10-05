@@ -1,0 +1,12 @@
+/* 
+    General Styles
+*/
+body {
+    background-color: black;
+}
+
+.card {
+    margin: 15px;
+    display: inline-block;
+    justify-content: center;
+}
